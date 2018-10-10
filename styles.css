@@ -20,8 +20,11 @@
 	font-size: 20px;
 }
 
-#header p {
-	border: 5px black;
+#header .title {
+	border: 2px solid white;
+	width: 400px;
+	margin: 2px;
+	border-radius: 5px;
 }
 
 #sidebar {
